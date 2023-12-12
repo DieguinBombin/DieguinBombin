@@ -4,3 +4,5 @@
 - Mejorar habilidades de JavaScript 💻
 - Introduciendome a ReactJS :electron:
 - Trabajando en modelos predictivos de proyectos que pronto verán luz.... 🌚
+
+[.](https://www.youtube.com/watch?v=Ma5hTmmmTbI)
