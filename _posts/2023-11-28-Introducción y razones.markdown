@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COVID-19 y Turismo, una proyección y analisis."
+title:  "COVID-19 y Turismo, análisis y proyección."
 description: "Motivos y observaciones"
 date:   2023-11-28 00:51:42 -0300
 categories: jekyll update
