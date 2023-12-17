@@ -3,6 +3,7 @@
 #### Actualmente estoy trabajando en ⚒️
 - Mejorar mis habilidades de JavaScript 💻
 - Introducirme a ReactJS :electron:
+- PHP, PostgreSQL y Java
 - Modelos predictivos de proyectos que pronto verán luz.... 🌚
 - TOMAR CAFEEÉ ☕
 - Ser feliz (opcional 😊)
