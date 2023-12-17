@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Introducción"
+title:  "COVID-19 y Turismo, una proyección y analisis."
 description: "Motivos y observaciones"
 date:   2023-11-28 00:51:42 -0300
 categories: jekyll update
 ---
 
-***Integrantes: Mateo Andrade , Diego Calderón , Alejandra Campos , Pía Correa y Isidora Guíñez
-Profesor: Rodrigo Carrasco***
+[]()
 
 ---
 
