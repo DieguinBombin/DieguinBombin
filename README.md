@@ -3,11 +3,11 @@
 Esto también incluye [mi página](https://dieguinbombin.github.io/DieguinBombin/) en donde guardo y actualizo información importante de mis proyectos.
 
 #### Actualmente estoy trabajando en ⚒️
-- Mejorar mis habilidades de JavaScript 💻
+- Mejorar mis habilidades de JavaScript y perfeccionar Python 💻
 - Introducirme a ReactJS :electron:
-- PHP, PostgreSQL y Java
+- PHP, PostgreSQL
 - TOMAR CAFEEÉ ☕
 - Ser feliz (opcional 😊)
-- C++ in progres :octocat:
+- C++ in progress :octocat:
 
 [.](https://www.youtube.com/watch?v=Ma5hTmmmTbI)
