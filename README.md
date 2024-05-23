@@ -9,7 +9,7 @@ Pagina hecha en Jekyll asi q no juzguen XD
 - PHP, PostgreSQL
 - TOMAR CAFEEÉ ☕
 - Ser feliz (opcional 😊)
-- C++ improvement!! :octocat:
-- ARDUINO 🚀🚀🚀🚀
+- C++ improvement!! (even more) :octocat:
+- ARDUINO & ESP32 🚀🚀🚀🚀
 
 [.](https://www.youtube.com/watch?v=Ma5hTmmmTbI)
