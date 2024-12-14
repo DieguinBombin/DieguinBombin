@@ -3,10 +3,10 @@
 
 ### Lenguajes 🍗
 (4 pollos en el pollometro indica muy frecuentado)
-- Python     🍗/🍗/🍗
-- C++        🍗/🍗/
-- Javascript 🍗/  /
-- SQL          /  /  (Espacio reservado pa BDD)
+- Pythonㅤㅤㅤ🍗/🍗/🍗/
+- C++ㅤㅤㅤㅤㅤ🍗/🍗/ㅤ/ㅤ
+- Javascriptㅤ🍗/  /ㅤ/
+- SQLㅤㅤㅤㅤ ㅤㅤ/ㅤ/ㅤ/ㅤ(Espacio reservado pa BDD)
 
 #### Actualmente estoy trabajando en ⚒️
 - Implementar redes neuronales...
