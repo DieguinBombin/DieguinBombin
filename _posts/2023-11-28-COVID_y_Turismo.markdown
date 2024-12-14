@@ -8,16 +8,13 @@ categories: jekyll update
 
 ---
 
-### Observaciones Preeliminares e Introducción
+### Introducción
 
-Se analizó y recopiló la información del [Repositorio de Github](https://github.com/elbosco/imt2200-proyecto) con tal de presentarlo de manera más gráfica.
-Si buscas un resumen de nuestro analisis, puedes ver la [Pagina del proyecto](https://dieguinbombin.github.io/IMT2200_COVID_TURISMO/).
+Avisos preeliminares:
+El análisis es desde el inicio de la pandemia hasta su fin, incluyendo este rango de tiempo en el registro de turismo.
 
-Puntos a tomar en cuenta son:
-- El análisis es desde el inicio de la pandemia hasta su fin, incluyendo este rango de tiempo en el registro de turismo.
-- La toma de muestreos será en el lugar de origen de los viajes turisticos, el lugar de destino se agregará mas adelante al análisis...
-
-
+Puedes acceder al [Repositorio de Github](https://github.com/elbosco/imt2200-proyecto) si quieres ver el proyecto completo y metodologías.
+Si buscas un **resumen** de nuestro analisis, puedes ver la [Pagina del proyecto](https://dieguinbombin.github.io/IMT2200_COVID_TURISMO/).
 
 ### Propósitos
 
