@@ -1,15 +1,16 @@
-### Este github está destinado a ser mi portafolio personal 🤓
+### Este github está destinado a ser mi portafolio pa proyectos y leseras, nada serio aún... 🤓
+[Portafolio](https://dieguinbombin.github.io/DieguinBombin
 
-Esto también incluye [mi página](https://dieguinbombin.github.io/DieguinBombin/) en donde guardo y actualizo información importante de mis proyectos (Currently no update ☣️).
-Pagina hecha en Jekyll asi q no juzguen XD
+### Lenguajes 🍗
+(4 pollos en el pollometro indica muy frecuentado)
+- Python     🍗/🍗/🍗
+- C++        🍗/🍗/
+- Javascript 🍗/  /
+- SQL          /  /  (Espacio reservado pa BDD)
 
 #### Actualmente estoy trabajando en ⚒️
-- Mejorar mis habilidades de JavaScript y perfeccionar Python 💻
-- Introducirme a ReactJS :electron:
-- PHP, PostgreSQL
-- TOMAR CAFEEÉ ☕
-- Ser feliz (opcional 😊)
-- C++ improvement!! (even more) :octocat:
-- ARDUINO & ESP32 🚀🚀🚀🚀
+- Implementar redes neuronales...
+- Mejorar el portafolio 😥
+- TOMAR CAFEEÉ ☕ (aún...)
 
 [.](https://www.youtube.com/watch?v=Ma5hTmmmTbI)
