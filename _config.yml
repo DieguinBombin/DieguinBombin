@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Portafólio
+title: Contacto
 email: dbcannapro@gmail.com
 description: Página de proyectos individuales y en colaboración.
 baseurl: "/DieguinBombin" # the subpath of your site, e.g. /blog
