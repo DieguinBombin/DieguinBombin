@@ -1,5 +1,5 @@
 ### Este github está destinado a ser mi portafolio pa proyectos y leseras, nada serio aún... 🤓
-[Portafolio](https://dieguinbombin.github.io/DieguinBombin
+[Portafolio](https://dieguinbombin.github.io/DieguinBombin)
 
 ### Lenguajes 🍗
 (4 pollos en el pollometro indica muy frecuentado)
