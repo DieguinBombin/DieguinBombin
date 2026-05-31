@@ -2,18 +2,20 @@
 [Portafolio](https://dieguinbombin.github.io/DieguinBombin)
 
 ### Lenguajes 🍗
-(4 pollos en el pollometro indica muy frecuentado)
-- Pythonㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🍗/🍗/🍗/🍗
-- Javascriptㅤㅤㅤㅤㅤㅤㅤㅤ  🍗/ㅤ/ㅤ/
-- C++ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🍗/🍗/ㅤ/ㅤ
-- SQLㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍗/ㅤ/ㅤ/ㅤ(Ya tamo empezando)
-- C  ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍗/🍗/ㅤ/ㅤedd TE ODIO
-- PHPㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍗/🍗/ㅤ/ㅤ
-- Clingoㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ🍗/🍗/  /  EZ IA
+(4 pollos en el pollometro indica muy frecuentado/fullstack)
+
+|**Lenguaje**|**Pollometro 🍗**|
+|-|-|
+|Python|🍗🍗🍗🍗|
+|C++|🍗🍗 thx 2 arduino|
+|Javascript|🍗|
+|SQL|🍗🍗🍗|
+|C|🍗🍗|
+|php|🍗🍗🍗|
+|Clingo|🍗🍗🍗 ez IA|
 
 #### Actualmente estoy trabajando en ⚒️
-- Mejorar el portafolio 😥
-- TOMAR CAFEEÉ ☕ (aún...)
-- Estudianding
+- pagar la u
+- servos y cnn con frameworks pa esp32...
 [.](https://www.youtube.com/watch?v=Ma5hTmmmTbI)
 
