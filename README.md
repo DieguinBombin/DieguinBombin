@@ -9,7 +9,7 @@
 - SQLㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍗/ㅤ/ㅤ/ㅤ(Ya tamo empezando)
 - C  ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍗/🍗/ㅤ/ㅤedd TE ODIO
 - PHPㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍗/🍗/ㅤ/ㅤ
-- Clingo                  🍗/🍗/  /  EZ IA
+- Clingoㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ🍗/🍗/  /  EZ IA
 
 #### Actualmente estoy trabajando en ⚒️
 - Mejorar el portafolio 😥
