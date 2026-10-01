@@ -6,7 +6,8 @@ date:   2026-5-17 00:51:42 -0300
 categories: jekyll update
 ---
 
----# Visualización WEB
+---
+# Visualización WEB
 
 > **Evolución de la Mortalidad Mundial:** Un proyecto de visualización de datos multisensorial que explora la tasa bruta de mortalidad global a través del espacio, el tiempo y el sonido.
 

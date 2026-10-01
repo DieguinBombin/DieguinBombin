@@ -16,6 +16,8 @@ El análisis es desde el inicio de la pandemia hasta su fin, incluyendo este ran
 Puedes acceder al [Repositorio de Github](https://github.com/elbosco/imt2200-proyecto) si quieres ver el proyecto completo y metodologías.
 Si buscas un **resumen** de nuestro analisis, puedes ver la [Pagina del proyecto](https://dieguinbombin.github.io/IMT2200_COVID_TURISMO/).
 
+---
+
 ### Propósitos
 
 Investigar los datos relacionados a la pandemia y el turismo para proteger la salud pública, y enfatizar el desarrollo de políticas para las empresas de turismo en el caso de futuras pandemias.
