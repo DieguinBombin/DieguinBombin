@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Visualización de la Información - Mortandar mundial, un analisis de casos extremos."
+title:  "Mortandar mundial, un análisis de casos extremos."
 description: "ESP32 y visualización web"
 date:   2026-5-17 00:51:42 -0300
 categories: jekyll update
 ---
 
----
-# Visualización WEB
+---# Visualización WEB
 
 > **Evolución de la Mortalidad Mundial:** Un proyecto de visualización de datos multisensorial que explora la tasa bruta de mortalidad global a través del espacio, el tiempo y el sonido.
+
+![Visualización Web de Mortalidad Mundial](images/webpage_infoviz.png)
 
 ---
 
@@ -75,6 +76,8 @@ Se realizaron pruebas de usabilidad con perfiles diversos (un experto en estadí
 # Fisicalización del Proyecto
 
 > **Fisicalización de Datos y Dispositivo Háptico (ESP32):** Un sistema de información físico-digital que transpone datos demográficos globales a estímulos táctiles y sonoros mediante un dispositivo vestible (*wearable*) controlado por microcontrolador.
+
+![Dispositivo Háptico ESP32](images/esp32_infoviz.png)
 
 ---
 
