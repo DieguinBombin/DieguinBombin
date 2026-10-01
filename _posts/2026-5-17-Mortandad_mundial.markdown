@@ -10,7 +10,7 @@ categories: jekyll update
 
 > **Evolución de la Mortalidad Mundial:** Un proyecto de visualización de datos multisensorial que explora la tasa bruta de mortalidad global a través del espacio, el tiempo y el sonido.
 
-![Visualización Web de Mortalidad Mundial](images/webpage_infoviz.png)
+![Visualización Web de Mortalidad Mundial](https://raw.githubusercontent.com/DieguinBombin/DieguinBombin/refs/heads/page_portafolio/images/webpage_infoviz.png)
 
 ---
 
@@ -77,7 +77,7 @@ Se realizaron pruebas de usabilidad con perfiles diversos (un experto en estadí
 
 > **Fisicalización de Datos y Dispositivo Háptico (ESP32):** Un sistema de información físico-digital que transpone datos demográficos globales a estímulos táctiles y sonoros mediante un dispositivo vestible (*wearable*) controlado por microcontrolador.
 
-![Dispositivo Háptico ESP32](images/esp32_infoviz.png)
+![Dispositivo Háptico ESP32](https://raw.githubusercontent.com/DieguinBombin/DieguinBombin/74e9d0535ef59259259e5ea29f4bf425b539da01/images/esp32_infoviz.png)
 
 ---
 
