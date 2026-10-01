@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Acerca de
+title: Contacto
 permalink: /about/
 ---
 
-Portafolio personal dedicado a exhibir proyectos en los que contribuí, o directamente creé :D
+Este es mi portafolio personal dedicado a exhibir proyectos en los que contribuí, o directamente creé :D
 
-_Si buscas saber mi actividad en cada proyecto, pasa por mi [GitHub](https://github.com/DieguinBombin) (También está abajo de la página)_
+Mi información de contacto está aquí abajo!
+
+- [Linkedin](https://www.linkedin.com/in/diego-calder%C3%B3n-ar%C3%A9valo-60923a299/)
+- [GitHub](https://github.com/DieguinBombin)
+- [Correo personal](mailto:dbcannapro@gmail.com)
+- [Correo académico](mailto:dcaldev@uc.cl)
+

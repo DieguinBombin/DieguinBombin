@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mortandar mundial, un análisis de casos extremos."
+title:  "Mortandad mundial, un análisis de casos extremos."
 description: "ESP32 y visualización web"
 date:   2026-5-17 00:51:42 -0300
 categories: jekyll update
